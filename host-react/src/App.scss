@@ -1,0 +1,26 @@
+.buttonPrimary {
+    font-size: 16px;
+    padding: 10px 15px;
+    cursor: pointer;
+    background: blue;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+
+    &:hover {
+        background: darkblue;
+    }
+}
+
+.buttonSecondary {
+    cursor: pointer;
+    background: #333333;
+    border: none;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 5px;
+
+    &:hover {
+        background: #999999;
+    }
+}

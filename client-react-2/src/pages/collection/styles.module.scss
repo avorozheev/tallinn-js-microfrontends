@@ -1,0 +1,21 @@
+.devicesTable {
+  width: 100%;
+
+  tr {
+
+    td, th {
+      text-align: left;
+      padding: 10px 15px;
+    }
+
+    th {
+      background: #eeeeee;
+      text-transform: uppercase;
+      padding-top: 15px;
+    }
+
+    td {
+      background: #f9f9f9;
+    }
+  }
+}
